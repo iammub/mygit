@@ -1,8 +1,10 @@
 #include<stdio.h>
-// checking git 
+// checking git
 void main()
 {
 printf("hello world");
 return(0);
+
+//ok iam gonna say this is my first change
 }
 
